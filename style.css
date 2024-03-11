@@ -20,7 +20,7 @@ body{
     position: relative;
     width: 300px;
     height: 200px;
-    background: #f08080;
+    background: #B34700;
     display: grid;
     place-items: center;
 }
@@ -29,7 +29,7 @@ body{
     position: absolute;
     width: 212px;
     height: 212px;
-    background: #f09090;
+    background: #D45500;
     transform: rotate(45deg);
     top: -105px;
     left: 44px;
@@ -37,7 +37,7 @@ body{
 }
 .front{
     position: absolute;
-    border-right: 180px solid #f4978e;
+    border-right: 180px solid #D45500;
     border-top: 85px solid transparent;
     border-bottom: 100px solid transparent;
     left: 120px;
@@ -49,7 +49,7 @@ body{
 .front:before{
     position: absolute;
     content: '';
-    border-left: 300px solid #fda996;
+    border-left: 300px solid #F66300;
     border-top: 195px solid transparent;
     left: -120px;
     top: -95px;

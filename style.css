@@ -4,7 +4,10 @@ body{
     display: grid;
     place-items: center;
     min-height: 100vh;
-    background: #fae1dd;
+    background-image: url(midia/backheart.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .container{
